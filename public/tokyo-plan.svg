@@ -1,0 +1,7 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="600" fill="#153B36"/><circle cx="930" cy="150" r="110" fill="#D6FF73"/><circle cx="930" cy="150" r="72" fill="#F3F8ED"/>
+<path d="M0 418C156 340 249 457 384 403C510 353 564 238 691 308C825 382 890 516 1200 394V600H0V418Z" fill="#487D65"/>
+<path d="M0 491C192 407 285 511 416 459C535 412 662 370 790 440C911 507 1004 503 1200 454V600H0V491Z" fill="#9CCF79"/>
+<path d="M280 394L357 280L434 394H400L434 488H280L315 394H280Z" fill="#F3F8ED"/><path d="M381 280V488" stroke="#153B36" stroke-width="12"/>
+<text x="80" y="120" fill="#F3F8ED" font-family="Georgia, serif" font-size="64">TOKYO / 5 DAYS</text><text x="84" y="168" fill="#B4CBB9" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">A SLOW TRAVEL ROUTE</text>
+</svg>
